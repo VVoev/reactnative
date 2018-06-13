@@ -3,6 +3,7 @@ import { StyleSheet, View } from "react-native";
 
 import PlaceInput from "./src/components/PlaceInput/PlaceInput";
 import PlaceList from "./src/components/PlaceList/PlaceList";
+import placeImage from './src/assets/monaco.jpg'
 
 export default class App extends Component {
   state = {
@@ -12,16 +13,22 @@ export default class App extends Component {
   placeAddedHandler = placeName => {
     this.setState(prevState => {
       return {
-        places: prevState.places.concat(placeName)
+        places: prevState.places.concat({
+          key: Math.random(),
+          name: placeName,
+          image: {
+            uri: 'https://m2b.ge/uploaded/m2b/2018-04/20180415030753610959012.jpg'
+          }
+        })
       };
     });
   };
 
-  placeDeleteHandler = index => {
+  placeDeleteHandler = key => {
     this.setState(prevState => {
       return {
         places: prevState.places.filter((place, i) => {
-          return i !== index;
+          return place.key !== key;
         })
       }
     })
