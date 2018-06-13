@@ -20,10 +20,6 @@ class PlaceInput extends Component {
         this.props.onPlaceAdded(this.state.placeName);
     };
 
-    placeDeleteHandler = () => {
-        this.props.onPlaceDelete(this.state.placeName);
-    }
-
     render() {
         return (
             <View style={styles.inputContainer}>
@@ -56,10 +52,6 @@ const styles = StyleSheet.create({
     },
     placeButton: {
         width: "30%"
-    },
-    deleteButton: {
-        width: "20%",
-        backgroundColor: 'red'
     }
 });
 
