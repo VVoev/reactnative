@@ -3,6 +3,10 @@
 # expo
 .expo/
 
+#rn debugger
+debugger
+React Native Debugger.exe
+
 # dependencies
 /node_modules
 

@@ -10,7 +10,8 @@ import PlaceDetail from "./src/components/PlaceDetail/PlaceDetail";
 class App extends Component {
 
   placeAddedHandler = placeName => {
-    this.props.onAddPlace(placeName)
+    this.props.onAddPlace(placeName);
+    console.log('added');
   };
 
   placeDeletedHandler = () => {

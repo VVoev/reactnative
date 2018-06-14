@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jun 14 13:28:57 EEST 2018
+#Thu Jun 14 15:58:28 EEST 2018
 210.set=ANDROID_RESOURCE
 282.file=E\:\\REACT\\reactnative\\my-app\\android\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png
 14.set=ANDROID_RESOURCE
