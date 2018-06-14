@@ -92,12 +92,12 @@
         "source": "C:\\Users\\Vladimir\\.android\\build-cache\\e2cd1adf0cdfd35b1fd0006a67c0ecd8a3f478c5\\output\\res\\drawable-mdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\REACT\\reactnative\\my-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\Vladimir\\.android\\build-cache\\e2cd1adf0cdfd35b1fd0006a67c0ecd8a3f478c5\\output\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "E:\\REACT\\reactnative\\my-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png",
         "source": "C:\\Users\\Vladimir\\.android\\build-cache\\e2cd1adf0cdfd35b1fd0006a67c0ecd8a3f478c5\\output\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\REACT\\reactnative\\my-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Vladimir\\.android\\build-cache\\e2cd1adf0cdfd35b1fd0006a67c0ecd8a3f478c5\\output\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "E:\\REACT\\reactnative\\my-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
