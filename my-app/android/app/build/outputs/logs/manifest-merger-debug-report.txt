@@ -65,6 +65,7 @@ ADDED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml:
 		ADDED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml:23:17-81
 uses-sdk
 INJECTED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [places:react-native-vector-icons:unspecified] E:\REACT\reactnative\my-app\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Vladimir\.android\build-cache\e1594b7ac09f08bb0cb98369a1055310da9a67bd\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Vladimir\.android\build-cache\e2cd1adf0cdfd35b1fd0006a67c0ecd8a3f478c5\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Vladimir\.android\build-cache\cfdfdde00b21d491e56863c5133991b39e161cf9\output\AndroidManifest.xml:20:5-43
