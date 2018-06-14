@@ -1,6 +1,46 @@
 [
     {
+        "merged": "E:\\REACT\\reactnative\\my-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Vladimir\\.android\\build-cache\\6dbf750c84d6df045e244ce9f63ee63e2956a302\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\REACT\\reactnative\\my-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Vladimir\\.android\\build-cache\\6dbf750c84d6df045e244ce9f63ee63e2956a302\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\REACT\\reactnative\\my-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Vladimir\\.android\\build-cache\\6dbf750c84d6df045e244ce9f63ee63e2956a302\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\REACT\\reactnative\\my-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Vladimir\\.android\\build-cache\\6dbf750c84d6df045e244ce9f63ee63e2956a302\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
         "merged": "E:\\REACT\\reactnative\\my-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\Users\\Vladimir\\.android\\build-cache\\e2cd1adf0cdfd35b1fd0006a67c0ecd8a3f478c5\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+        "source": "C:\\Users\\Vladimir\\.android\\build-cache\\6dbf750c84d6df045e244ce9f63ee63e2956a302\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\REACT\\reactnative\\my-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Vladimir\\.android\\build-cache\\6dbf750c84d6df045e244ce9f63ee63e2956a302\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\REACT\\reactnative\\my-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Vladimir\\.android\\build-cache\\6dbf750c84d6df045e244ce9f63ee63e2956a302\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\REACT\\reactnative\\my-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\Vladimir\\.android\\build-cache\\6dbf750c84d6df045e244ce9f63ee63e2956a302\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\REACT\\reactnative\\my-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Vladimir\\.android\\build-cache\\6dbf750c84d6df045e244ce9f63ee63e2956a302\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\REACT\\reactnative\\my-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Vladimir\\.android\\build-cache\\6dbf750c84d6df045e244ce9f63ee63e2956a302\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\REACT\\reactnative\\my-app\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Vladimir\\.android\\build-cache\\c229204fea0b2295d8367edca02f8f2b81924df3\\output\\res\\color-v23\\design_tint_password_toggle.xml"
     }
 ]

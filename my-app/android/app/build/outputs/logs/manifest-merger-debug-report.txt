@@ -24,11 +24,24 @@ MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Vladimir\.android\
 		ADDED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml:5:22-75
 application
 ADDED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [places:react-native-navigation:unspecified] E:\REACT\reactnative\my-app\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:11:5-18:19
 MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Vladimir\.android\build-cache\e1594b7ac09f08bb0cb98369a1055310da9a67bd\output\AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Vladimir\.android\build-cache\e2cd1adf0cdfd35b1fd0006a67c0ecd8a3f478c5\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Vladimir\.android\build-cache\cfdfdde00b21d491e56863c5133991b39e161cf9\output\AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Vladimir\.android\build-cache\a8aaa5575a2c6713bc3aed6a71d6b1607b16b997\output\AndroidManifest.xml:3:3-17
 MERGED from [org.webkit:android-jsc:r174650] C:\Users\Vladimir\.android\build-cache\169c587f7bb02b9f86bec131420e9223faa419c1\output\AndroidManifest.xml:2:3-17
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\Vladimir\.android\build-cache\a9869b601ae8da8c1d1c024af85d262b8c847f77\output\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Vladimir\.android\build-cache\c229204fea0b2295d8367edca02f8f2b81924df3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Vladimir\.android\build-cache\69f67f6130811837778fcb31431ddf45052fbe45\output\AndroidManifest.xml:26:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\Vladimir\.android\build-cache\efa21a004b12315379bec1539add80eb9a00cd89\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Vladimir\.android\build-cache\6dbf750c84d6df045e244ce9f63ee63e2956a302\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Vladimir\.android\build-cache\8b7f2cdac1327bc2dd370380156cc827bb15743f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Vladimir\.android\build-cache\4bd70189811e7538bd868533b9bf9058a0bd451e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Vladimir\.android\build-cache\b73148841ff100c159d265347b42155c4707dbbf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Vladimir\.android\build-cache\182f7bf734d9614447d57a76d3a17d4cd3c01ac2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Vladimir\.android\build-cache\59f56c29ba5425f548117f67f55ec3c8f8a9f03b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Vladimir\.android\build-cache\9688d49fd8cf929dc3aa07dd372917d741feaf61\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Vladimir\.android\build-cache\39387d7472a9414feee8a4341054bc68d4331a20\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Vladimir\.android\build-cache\b4d7a9172a6c6d686a4a6dc64714686feabf3ea8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\Vladimir\.android\build-cache\d4e22e47079a665ead8c0fcdd5cd11e0ad25b3cf\output\AndroidManifest.xml:12:5-20
 	android:label
 		ADDED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml:9:7-39
 	android:allowBackup
@@ -61,14 +74,16 @@ ADDED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml:
 		ADDED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
 ADDED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml:23:7-84
+MERGED from [places:react-native-navigation:unspecified] E:\REACT\reactnative\my-app\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [places:react-native-navigation:unspecified] E:\REACT\reactnative\my-app\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:17:13-37
 	android:name
 		ADDED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml:23:17-81
 uses-sdk
 INJECTED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [places:react-native-vector-icons:unspecified] E:\REACT\reactnative\my-app\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [places:react-native-navigation:unspecified] E:\REACT\reactnative\my-app\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Vladimir\.android\build-cache\e1594b7ac09f08bb0cb98369a1055310da9a67bd\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Vladimir\.android\build-cache\e2cd1adf0cdfd35b1fd0006a67c0ecd8a3f478c5\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Vladimir\.android\build-cache\cfdfdde00b21d491e56863c5133991b39e161cf9\output\AndroidManifest.xml:20:5-43
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Vladimir\.android\build-cache\be0635ecca79ddd9f79de32110e1c539ce6e8550\output\AndroidManifest.xml:14:5-16:41
 MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Vladimir\.android\build-cache\4ed197a4ba9a945df60124fed55d6f3f2b998f95\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Vladimir\.android\build-cache\6ce255676cbad110d7dc3b41c5d9a4be2e8aadba\output\AndroidManifest.xml:5:5-7:41
@@ -77,15 +92,55 @@ MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Vladimir\.android
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Vladimir\.android\build-cache\96b17a4e1acf2121b1665ba0c6b0c3603038a766\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Vladimir\.android\build-cache\9699cc06ee2c7e2da20cc66aa9297aed4486c921\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Vladimir\.android\build-cache\a8aaa5575a2c6713bc3aed6a71d6b1607b16b997\output\AndroidManifest.xml:2:3-70
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\Vladimir\.android\build-cache\a9869b601ae8da8c1d1c024af85d262b8c847f77\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Vladimir\.android\build-cache\c229204fea0b2295d8367edca02f8f2b81924df3\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Vladimir\.android\build-cache\dd3bfc9f72d93c993c57dee20928bbe1f4f344d0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Vladimir\.android\build-cache\69f67f6130811837778fcb31431ddf45052fbe45\output\AndroidManifest.xml:20:5-44
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\Vladimir\.android\build-cache\efa21a004b12315379bec1539add80eb9a00cd89\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Vladimir\.android\build-cache\6dbf750c84d6df045e244ce9f63ee63e2956a302\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Vladimir\.android\build-cache\8b7f2cdac1327bc2dd370380156cc827bb15743f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Vladimir\.android\build-cache\4bd70189811e7538bd868533b9bf9058a0bd451e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Vladimir\.android\build-cache\b73148841ff100c159d265347b42155c4707dbbf\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Vladimir\.android\build-cache\182f7bf734d9614447d57a76d3a17d4cd3c01ac2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Vladimir\.android\build-cache\59f56c29ba5425f548117f67f55ec3c8f8a9f03b\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Vladimir\.android\build-cache\9688d49fd8cf929dc3aa07dd372917d741feaf61\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Vladimir\.android\build-cache\39387d7472a9414feee8a4341054bc68d4331a20\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Vladimir\.android\build-cache\b4d7a9172a6c6d686a4a6dc64714686feabf3ea8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\Vladimir\.android\build-cache\d4e22e47079a665ead8c0fcdd5cd11e0ad25b3cf\output\AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Vladimir\.android\build-cache\c229204fea0b2295d8367edca02f8f2b81924df3\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml
 		INJECTED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml
 		INJECTED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [places:react-native-navigation:unspecified] E:\REACT\reactnative\my-app\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [places:react-native-navigation:unspecified] E:\REACT\reactnative\my-app\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [places:react-native-navigation:unspecified] E:\REACT\reactnative\my-app\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:13:13-84
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 IMPLIED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
 IMPLIED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 IMPLIED from E:\REACT\reactnative\my-app\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Vladimir\.android\build-cache\c229204fea0b2295d8367edca02f8f2b81924df3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Vladimir\.android\build-cache\dd3bfc9f72d93c993c57dee20928bbe1f4f344d0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Vladimir\.android\build-cache\69f67f6130811837778fcb31431ddf45052fbe45\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Vladimir\.android\build-cache\6dbf750c84d6df045e244ce9f63ee63e2956a302\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Vladimir\.android\build-cache\8b7f2cdac1327bc2dd370380156cc827bb15743f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Vladimir\.android\build-cache\4bd70189811e7538bd868533b9bf9058a0bd451e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Vladimir\.android\build-cache\b73148841ff100c159d265347b42155c4707dbbf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Vladimir\.android\build-cache\182f7bf734d9614447d57a76d3a17d4cd3c01ac2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Vladimir\.android\build-cache\59f56c29ba5425f548117f67f55ec3c8f8a9f03b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Vladimir\.android\build-cache\9688d49fd8cf929dc3aa07dd372917d741feaf61\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Vladimir\.android\build-cache\39387d7472a9414feee8a4341054bc68d4331a20\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Vladimir\.android\build-cache\b4d7a9172a6c6d686a4a6dc64714686feabf3ea8\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Vladimir\.android\build-cache\c229204fea0b2295d8367edca02f8f2b81924df3\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Vladimir\.android\build-cache\c229204fea0b2295d8367edca02f8f2b81924df3\output\AndroidManifest.xml:26:9-47
