@@ -5,10 +5,11 @@ import App from './App';
 import configureStore from './src/store/configureStore';
 
 const store = configureStore();
+
 const RNRedux = () => (
     <Provider store={store}>
         <App />
     </Provider>
-)
+);
 
-AppRegistry.registerComponent('places', () => RNRedux);
+AppRegistry.registerComponent('rncourse', () => RNRedux);
